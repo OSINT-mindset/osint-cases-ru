@@ -16,3 +16,4 @@
 * [Weed Case](weed-case.md)
 * [Решение GEOINT\_QUIZ #47](reshenie-geoint\_quiz-47.md)
 * [Решение GEOINT\_QUIZ 46](reshenie-geoint\_quiz-46.md)
+* [Решение GEOINT\_QUIZ 45](reshenie-geoint\_quiz-45.md)
