@@ -14,3 +14,5 @@
 * [Решение OSINT #25](reshenie-osint-25.md)
 * [Решение GEOINT #25](reshenie-geoint-25.md)
 * [Weed Case](weed-case.md)
+* [Решение GEOINT\_QUIZ #47](reshenie-geoint\_quiz-47.md)
+* [Решение GEOINT\_QUIZ 46](reshenie-geoint\_quiz-46.md)
