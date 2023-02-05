@@ -1,6 +1,6 @@
 # Решение GEOINT #25
 
-_BLACK, January 24, 2023_
+BLACK, January 24, 2023
 
 <figure><img src="https://telegra.ph/file/15f3bedda768ad6084f06.jpg" alt=""><figcaption></figcaption></figure>
 

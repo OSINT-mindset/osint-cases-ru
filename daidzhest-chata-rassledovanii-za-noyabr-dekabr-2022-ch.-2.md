@@ -1,6 +1,6 @@
 # Дайджест чата расследований за ноябрь-декабрь 2022, ч. 2
 
-__[_@osint\_mindset_](https://t.me/osint\_mindset)_, December 26, 2022_
+[@osint\_mindset](https://t.me/osint\_mindset)_, December 26, 2022_
 
 Наш [прошлый дайджест](https://telegra.ph/Dajdzhest-chata-rassledovanij-za-noyabr-dekabr-22-12-21) стал довольно популярен: читать такие разборы OSINT-задач намного легче, чем изучать треды [в чате расследований](https://t.me/+GMxoDCvLO0k0MWRi).
 
