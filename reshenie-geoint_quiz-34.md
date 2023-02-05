@@ -1,6 +1,6 @@
 # Решение GEOINT\_QUIZ #34
 
-[@osint\_box by Leonid](https://t.me/osint\_box)_, January 29, 2023_
+__[_@osint\_box by Leonid_](https://t.me/osint\_box)_, January 29, 2023_
 
 Задача – найти место съемки на фото ниже:
 

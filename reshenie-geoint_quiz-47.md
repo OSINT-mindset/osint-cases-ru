@@ -1,6 +1,6 @@
 # Решение GEOINT\_QUIZ #47
 
-BLACK, January 29, 2023, [GEOINT forum](https://t.me/geoint/10981)
+_BLACK, January 29, 2023,_ [_GEOINT forum_](https://t.me/geoint/10981)__
 
 <figure><img src="https://telegra.ph/file/fa7b6006bfe305a32d7aa.jpg" alt=""><figcaption><p>Фотография #1</p></figcaption></figure>
 

@@ -1,6 +1,6 @@
 # Найти воздухоплавающее
 
-[@osint\_mindset Статья - X, редактор - Akvagon](https://t.me/osint\_mindset), February 01, 2023
+__[_@osint\_mindset Статья - X, редактор - Akvagon_](https://t.me/osint\_mindset)_, February 01, 2023_
 
 Приветствуем, наши любимые осинтеры! Сегодня вновь отложим GEOINT и попробуем решить задачку по старому доброму OSINT-у. Что же мы придумали на этот раз? [Котосинт](https://osint-mindset.gitbook.io/cases/kotosint-ili-slabo-naiti-kota-v-turcii) прошли, [контейнеры](https://osint-mindset.gitbook.io/cases/o-more-more...) тоже, сегодня же представляем для вас следующее:
 

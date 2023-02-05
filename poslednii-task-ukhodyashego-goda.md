@@ -1,6 +1,6 @@
 # Последний таск уходящего года
 
-[@osint\_mindset Статья - X, редактор - Akva](https://t.me/osint\_mindset)_, January 05, 2023_
+__[_@osint\_mindset Статья - X, редактор - Akva_](https://t.me/osint\_mindset)_, January 05, 2023_
 
 Новый год - на форуме новые веяния. Какие мысли нам подарит уходящий 2022-й?
 
