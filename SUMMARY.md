@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Крипту в массы!](README.md)
-* [Есть маршрут, и есть на трассе населенный пункт...](est-marshrut-i-est-na-trasse-naselennyi-punkt....md)
+* [Котосинт, или Слабо найти кота в Турции?](README.md)
+* [Крипту в массы!](<README (1).md>)
 * [О море, море...](o-more-more....md)
-* [Котосинт, или Слабо найти кота в Турции?](kotosint-ili-slabo-naiti-kota-v-turcii.md)
+* [Есть маршрут, и есть на трассе населенный пункт...](<README (2).md>)
 * [Найти воздухоплавающее](naiti-vozdukhoplavayushee.md)
 * [Корейский айдол или девушка из Ялты?](koreiskii-aidol-ili-devushka-iz-yalty.md)
 * [Горячий GEOINT](goryachii-geoint.md)
