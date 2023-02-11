@@ -1,6 +1,6 @@
 # Решение OSINT #25
 
-Izumzudnoe Chudovische, January 31, 2023
+_Izumzudnoe Chudovische, January 31, 2023_
 
 Есть сайт govn.uk. Необходимо найти радиолюбительский позывной создателя и его последнюю передачу местоположения по радио.
 

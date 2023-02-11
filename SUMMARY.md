@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Дальтоник? Ой, нет, показалось!](README.md)
+* [Крипту в массы!](README.md)
+* [Дальтоник? Ой, нет, показалось!](<README (1).md>)
 * [О море, море...](o-more-more....md)
 * [Котосинт, или Слабо найти кота в Турции?](kotosint-ili-slabo-naiti-kota-v-turcii.md)
 * [Найти воздухоплавающее](naiti-vozdukhoplavayushee.md)
