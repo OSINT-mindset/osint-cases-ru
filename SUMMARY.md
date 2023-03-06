@@ -25,3 +25,4 @@
 * [Решение GEOINT\_QUIZ #51](reshenie-geoint\_quiz-51.md)
 * [Решение GEOINT\_QUIZ #52](reshenie-geoint\_quiz-52.md)
 * [Когда читаешь, запоминай обложку | OSINT #27](kogda-chitaesh-zapominai-oblozhku-or-osint-27.md)
+* [Позывной - govn.uk](pozyvnoi-govn.uk.md)
