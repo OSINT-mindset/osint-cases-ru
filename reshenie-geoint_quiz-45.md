@@ -1,6 +1,8 @@
-# Решение GEOINT\_QUIZ #45
+---
+description: Никита, January 25, 2023, GEOINT forum
+---
 
-_Никита, January 25, 2023,_ [_GEOINT forum_](https://t.me/geoint/10860)__
+# Решение GEOINT\_QUIZ #45
 
 <figure><img src="https://telegra.ph/file/17d57a617b130d1034db8.jpg" alt=""><figcaption><p>Задача - определить место съемки.</p></figcaption></figure>
 

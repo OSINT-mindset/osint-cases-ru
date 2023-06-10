@@ -1,6 +1,8 @@
-# Решение GEOINT\_QUIZ #50
+---
+description: Ivan, February 03, 2023, GEOINT forum
+---
 
-_Ivan, February 03, 2023,_ [_GEOINT forum_](https://t.me/geoint/10981)__
+# Решение GEOINT\_QUIZ #50
 
 <figure><img src="https://telegra.ph/file/d4309046bb347ae0b3a05.png" alt=""><figcaption><p>Найти координаты здания.</p></figcaption></figure>
 

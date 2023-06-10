@@ -1,6 +1,8 @@
-# Решение GEOINT\_QUIZ #46
+---
+description: BLACK, January 25, 2023, GEOINT forum
+---
 
-_BLACK, January 25, 2023,_ [_GEOINT forum_](https://t.me/geoint/10889)__
+# Решение GEOINT\_QUIZ #46
 
 <figure><img src="https://telegra.ph/file/566a8e19ba2e8abd6c7be.jpg" alt=""><figcaption></figcaption></figure>
 

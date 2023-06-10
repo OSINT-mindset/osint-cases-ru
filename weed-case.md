@@ -1,6 +1,8 @@
-# Weed Case
+---
+description: Jin Mori, January 22, 2023
+---
 
-_Jin Mori, January 22, 2023_
+# Weed Case
 
 Интересная таска про траву и автоматы круглосуточного доступа к ней.
 

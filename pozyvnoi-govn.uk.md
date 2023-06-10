@@ -1,10 +1,12 @@
-# Позывной - govn.uk
+---
+description: '@osint_mindset Статья - X, редактор - Akvagon | March 05, 2023'
+---
 
-_@osint\_mindset Статья - X, редактор - Akvagon, March 05, 2023_
+# Позывной - govn.uk
 
 Думаю, многие знают, что мы готовились к [**OSINT mindset meetup №7**](https://t.me/osint\_mindset/211), и немного были загружены, но не смотря на все трудности, мы продолжаем радовать любимых читателей крутыми разборами интересных тасков последних дней.
 
-До этого мы затрагивали [книги](https://osint-mindset.gitbook.io/cases/kogda-chitaesh-zapominai-oblozhku-or-osint-27), немного говорили о [крипте](https://t.me/osint\_mindset/207), сегодня же мы разберем довольно необычный для нас OSINT-таск, поехали!
+До этого мы затрагивали [книги](https://osint-mindset.gitbook.io/cases/kogda-chitaesh-zapominai-oblozhku-or-osint-27), немного говорили о [крипте](https://osint-mindset.gitbook.io/cases/kriptu-v-massy), сегодня же мы разберем довольно необычный для нас OSINT-таск, поехали!
 
 **Задача:**
 
@@ -123,9 +125,6 @@ _@osint\_mindset Статья - X, редактор - Akvagon, March 05, 2023_
 > Третья ссылка ведет нас на некий BrandMeister wiki.
 
 > [https://wiki.brandmeister.network/index.php/R3ABM](https://wiki.brandmeister.network/index.php/R3ABM)
-
-\
-
 
 <figure><img src="https://telegra.ph/file/cfd2834af86d478a7898f.png" alt=""><figcaption><p>Результат выдачи</p></figcaption></figure>
 

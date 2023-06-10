@@ -1,6 +1,8 @@
-# Решение GEOINT #25
+---
+description: BLACK, January 24, 2023
+---
 
-_BLACK, January 24, 2023_
+# Решение GEOINT #25
 
 <figure><img src="https://telegra.ph/file/15f3bedda768ad6084f06.jpg" alt=""><figcaption></figcaption></figure>
 

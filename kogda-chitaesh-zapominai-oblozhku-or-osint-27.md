@@ -1,6 +1,8 @@
-# Когда читаешь, запоминай обложку | OSINT #27
+---
+description: '@osint_mindset Статья - X, редактор - Akvagon | February 20, 2023'
+---
 
-_@osint\_mindset Статья - X, редактор - Akvagon, February 20, 2023_
+# Когда читаешь, запоминай обложку | OSINT #27
 
 Сегодня мы немного отвлечемся от прошлых заданий, где мы искали [автобус](https://osint-mindset.gitbook.io/cases/est-marshrut-i-est-na-trasse-naselennyi-punkt...), и от [крипты](https://osint-mindset.gitbook.io/cases/kriptu-v-massy), количество тасков про которую на нашем [форуме](https://t.me/+GMxoDCvLO0k0MWRi) растет просто с небывалой ранее скоростью, и откроем для себя что-то новенькое и интересное!
 

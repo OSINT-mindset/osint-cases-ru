@@ -1,6 +1,8 @@
-# Решение GEOINT\_QUIZ #39
+---
+description: ­ all right, February 03, 2023, GEOINT forum
+---
 
-_­all right, February 03, 2023,_ [_GEOINT forum_](https://t.me/geoint/10981)__
+# Решение GEOINT\_QUIZ #39
 
 1\) Закинем наши руины в линзу, видим похожие в городе Масьяф
 

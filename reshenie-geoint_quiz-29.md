@@ -1,6 +1,8 @@
-# Решение GEOINT\_QUIZ #29
+---
+description: X, February 04, 2023, GEOINT forum
+---
 
-_X, February 04, 2023,_ [_GEOINT forum_](https://t.me/geoint/10981)__
+# Решение GEOINT\_QUIZ #29
 
 Перед началом, хотелось бы сказать спасибо [Schwarz\_Osint](https://t.me/Schwarz\_Osint\_contact) и его команде, ребята действительно делают крутые вещи и помогают бесплатно развивать комьюнити.
 

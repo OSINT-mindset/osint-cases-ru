@@ -1,6 +1,8 @@
-# Решение GEOINT\_QUIZ #49
+---
+description: Šwetlik, February 03, 2023, GEOINT forum
+---
 
-_Šwetlik, February 03, 2023,_ [_GEOINT forum_](https://t.me/geoint/10981)__
+# Решение GEOINT\_QUIZ #49
 
 <figure><img src="https://telegra.ph/file/8a84b12ad4d3299e5fcde.png" alt=""><figcaption><p>Найти место съемки</p></figcaption></figure>
 

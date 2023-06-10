@@ -1,6 +1,8 @@
-# Решение GEOINT\_QUIZ #51
+---
+description: bnkus, February 06, 2023, GEOINT forum
+---
 
-_bnkus, February 06, 2023,_ [_GEOINT forum_](https://t.me/geoint/10981)__
+# Решение GEOINT\_QUIZ #51
 
 <figure><img src="https://telegra.ph/file/d6c1b52552892d81d6bc1.jpg" alt=""><figcaption></figcaption></figure>
 

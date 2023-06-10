@@ -1,6 +1,8 @@
-# Решение GEOINT\_QUIZ #52
+---
+description: bnkus, February 06, 2023, GEOINT forum
+---
 
-_bnkus, February 06, 2023,_ [_GEOINT forum_](https://t.me/geoint/10981)__
+# Решение GEOINT\_QUIZ #52
 
 <figure><img src="https://telegra.ph/file/7cfab2273a91ced94b014.png" alt=""><figcaption><p>Найти координаты места</p></figcaption></figure>
 
