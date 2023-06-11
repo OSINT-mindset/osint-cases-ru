@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Найти себе мейкапера](README.md)
+* [Сленг 18+](README.md)
+* [Найти себе мейкапера](<README (4).md>)
 * [VOICEINT! Попробуй определи!](voiceint-poprobui-opredeli.md)
 * [А это преподают в мед. вузе?](a-eto-prepodayut-v-med.-vuze.md)
 * [Простое-сложное](prostoe-slozhnoe.md)
