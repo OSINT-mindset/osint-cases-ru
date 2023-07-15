@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Сленг 18+](README.md)
+* [Дом, который...](README.md)
+* [Сленг 18+](<README (2).md>)
 * [Найти себе мейкапера](<README (4).md>)
 * [VOICEINT! Попробуй определи!](voiceint-poprobui-opredeli.md)
 * [А это преподают в мед. вузе?](a-eto-prepodayut-v-med.-vuze.md)
@@ -12,7 +13,7 @@
 * [Котосинт, или Слабо найти кота в Турции?](<README (3).md>)
 * [Крипту в массы!](<README (1).md>)
 * [О море, море...](o-more-more....md)
-* [Есть маршрут, и есть на трассе населенный пункт...](<README (2).md>)
+* [Есть маршрут, и есть на трассе населенный пункт...](<README (2) (1).md>)
 * [Найти воздухоплавающее](naiti-vozdukhoplavayushee.md)
 * [Корейский айдол или девушка из Ялты?](koreiskii-aidol-ili-devushka-iz-yalty.md)
 * [Горячий GEOINT](goryachii-geoint.md)

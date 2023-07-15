@@ -148,7 +148,7 @@ _4) Так как дорога из брусчатки для активного
 
 В данном таске мы приходим к выводу, что невозможное - возможно. Кстати, фото сделано в Канаде.
 
-***
+
 
 [Форум OSINT-расследований](https://t.me/+GMxoDCvLO0k0MWRi) | [YouTube](https://www.youtube.com/@osint\_mindset) | [OSINT mindset RU](https://t.me/osint\_mindset) | [OSINT mindset EN](https://t.me/osint\_mindset)
 
