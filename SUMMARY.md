@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Дом, который...](README.md)
+* [Кейсы и решения задач](README.md)
+* [Дом, который...](<README (4).md>)
 * [Сленг 18+](<README (2).md>)
-* [Найти себе мейкапера](<README (4).md>)
+* [Найти себе мейкапера](<README (4) (1).md>)
 * [VOICEINT! Попробуй определи!](voiceint-poprobui-opredeli.md)
 * [А это преподают в мед. вузе?](a-eto-prepodayut-v-med.-vuze.md)
 * [Простое-сложное](prostoe-slozhnoe.md)
