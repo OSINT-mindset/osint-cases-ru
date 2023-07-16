@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Кейсы и решения задач](README.md)
-* [Дом, который...](<README (4).md>)
+* [Дом, который...](dom-kotoryi.md)
 * [Сленг 18+](<README (2).md>)
 * [Найти себе мейкапера](<README (4) (1).md>)
 * [VOICEINT! Попробуй определи!](voiceint-poprobui-opredeli.md)
