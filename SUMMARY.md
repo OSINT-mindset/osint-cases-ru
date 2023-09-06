@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Кейсы и решения задач](README.md)
+* [Стоп мошенник!](stop-moshennik.md)
+* [Лодка есть? А если найду?](lodka-est-a-esli-naidu.md)
+* [Ромеро Бритто под контролем "OSINT MINDSET"](romero-britto-pod-kontrolem-osint-mindset.md)
 * [Дом, который...](dom-kotoryi.md)
 * [Сленг 18+](<README (2).md>)
 * [Найти себе мейкапера](<README (4) (1).md>)
