@@ -6,6 +6,6 @@
 
 Также вы можете посмотреть [карту из наших кейсов](https://www.google.com/maps/d/viewer?mid=1SbKWar17g\_5fRcJijVfVAzPfroPWJ4I\&ll=-3.81666561775622e-14%2C-2.1637183031294853\&z=1). Если будете проходить мимо одного из них, передавайте нам привет на форуме! ;)
 
-<figure><img src=".gitbook/assets/Screenshot 2023-07-31 at 14.44.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-10-11 at 21.40.12.png" alt=""><figcaption></figcaption></figure>
 
 Приятного чтения!
