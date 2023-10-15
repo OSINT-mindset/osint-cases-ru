@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Кейсы и решения задач](README.md)
+* [Эльфийский фольклор](elfiiskii-folklor.md)
+* [Любите ли Вы книги так, как люблю их я?](lyubite-li-vy-knigi-tak-kak-lyublyu-ikh-ya.md)
 * [Стоп, мошенник!](stop-moshennik.md)
 * [Лодка есть? А если найду?](lodka-est-a-esli-naidu.md)
 * [Ромеро Бритто под контролем OSINT Mindset](romero-britto-pod-kontrolem-osint-mindset.md)
