@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Кейсы и решения задач](README.md)
-* [Стоп мошенник!](stop-moshennik.md)
+* [Стоп, мошенник!](stop-moshennik.md)
 * [Лодка есть? А если найду?](lodka-est-a-esli-naidu.md)
 * [Ромеро Бритто под контролем OSINT Mindset](romero-britto-pod-kontrolem-osint-mindset.md)
 * [Дом, который...](dom-kotoryi.md)
