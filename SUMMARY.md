@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Кейсы и решения задач](README.md)
+* [GEOINT в небе, или найти движущуюся цель](geoint-v-nebe-ili-naiti-dvizhushuyusya-cel.md)
+* [Ник - Silly Rama, поиски одного человека](nik-silly-rama-poiski-odnogo-cheloveka.md)
 * [Эльфийский фольклор](elfiiskii-folklor.md)
 * [Любите ли Вы книги так, как люблю их я?](lyubite-li-vy-knigi-tak-kak-lyublyu-ikh-ya.md)
 * [Стоп, мошенник!](stop-moshennik.md)
